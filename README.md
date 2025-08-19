@@ -79,7 +79,14 @@ python loan_app.py
 ---
 
 ## 🌐 Demo App 
-**[🔗 Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/your-username/loan-approval-predictor)**
+# Loan Approval Prediction App
+
+A simple and user-friendly app that predicts whether a loan will be approved based on applicant details.  
+Built with **Python**, **scikit-learn**, and **Gradio**, and deployed on **Hugging Face Spaces**.
+
+## 🚀 Try it Live
+[Loan Approval Prediction App](https://huggingface.co/spaces/VishnumayaR/loan_approval_prediction)
+
 
 ---
 
